@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Chibuikem Lucas.
 - 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning full-stack web development.
-- 💞️ I’m looking to collaborate on real-world backend and full-stack projects.
+- 💞️ I’m looking to collaborate on real-world frontend and backend projects.
 - 📫 My email to reach me : chibuikemlucas@gmail.com  .
 
 <!---
