@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chibuikem Lucas.
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning JavaScript .
+- 👀 I’m interested in React and ThreeJS.
+- 🌱 I’m currently learning React .
 - 💞️ I’m looking to collaborate on real-world frontend projects.
 - 📫 My email to reach me : chibuikemlucas@gmail.com  .
 
