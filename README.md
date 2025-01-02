@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Chibuikem Lucas.
-- 👀 I’m interested in React and ThreeJS.
-- 🌱 I’m currently learning React .
-- 💞️ I’m looking to collaborate on real-world frontend projects.
+- 🤝🏾 WELCOME, I’m Chibuikem Lucas.
+- 🧐 I’m interested in Frontend web development, app development and creating outstanding 3D animated UIs.
+- ✍🏾 I’m currently working on improving my expertise with ReactJS,NextJS,NodeJS,ThreeJS and Typescript.
+- 📌 I’m looking to collaborate on real-world frontend projects.
 - 📫 My email to reach me : chibuikemlucas@gmail.com  .
 
 <!---
