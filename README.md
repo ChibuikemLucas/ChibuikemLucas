@@ -29,18 +29,27 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 
 ### 💼 What I'm Doing Now
 
-- 🛠️ Building **real-world frontend projects** with motion and 3D UI
-- 🧠 Learning deeper **React Patterns**, **TypeScript mastery**, and **WebGL**
-- 🌍 Growing my network and looking for **collaborations and job offers**
-- 🔥 Sharing my dev journey, insights, and UI tips online
+- 🛠️ Building **real-world frontend projects** with motion and 3D UI  
+- 🧠 Learning deeper **React Patterns**, **TypeScript mastery**, and **WebGL**  
+- 🌍 Growing my network and looking for **collaborations and job offers**  
+- 🔥 Sharing my dev journey, insights, and UI tips online  
 
 ---
 
 ### 🤝 Open to Collaborate On:
+
 - 🚀 Creative frontend UI/UX projects  
 - 🧩 Open-source tools with interactive/visual components  
 - 📱 React Native mobile experiences  
-- 🎯 Startups or teams needing **visually stunning** interfaces
+- 🎯 Startups or teams needing **visually stunning** interfaces  
+
+---
+
+### 📊 My GitHub Streak
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chibuikemlucas&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</div>
 
 ---
 
@@ -60,4 +69,3 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 > 🧩 *“Great software is built like art — with soul, structure, and story.”*
 
 ---
-
