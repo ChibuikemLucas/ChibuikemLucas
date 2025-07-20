@@ -48,7 +48,9 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 ### 📊 My GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chibuikemlucas&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=chibuikemlucas&theme=tokyonight_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&utc_offset=+60" alt="GitHub Streak" />
+  <br />
+  <small>⏳ If it still shows 1, don't worry — give it a few minutes or refresh. GitHub updates based on UTC by default.</small>
 </div>
 
 ---
@@ -67,5 +69,3 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 ---
 
 > 🧩 *“Great software is built like art — with soul, structure, and story.”*
-
----
