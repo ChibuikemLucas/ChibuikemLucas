@@ -40,31 +40,38 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 
 > I'm documenting everything I'm learning in-depth as I revisit core JavaScript concepts — practical, modern, and beginner-friendly.
 
-<div align="center">
-  <a href="https://javascriptseries.hashnode.dev/episode-1-what-is-javascript" width="400" alt="Chapter 1: What is JavaScript" />
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720000083011/2f789c4f-abc9-4b4e-812d-bc80d15d6077.png" width="400" alt="Chapter 2: JS Functions" />
+<table align="center">
+  <tr>
+  <!-- Chapter 1 -->
+    <td align="center">
+  <a href="https://javascriptseries.hashnode.dev/episode-1-what-is-javascript" target="_blank">
+    <img src="js w.webp" width="400" alt="Chapter 1: What is JavaScript" />
   </a>
   <br />
-  <strong><a href="https://javascriptseries.hashnode.dev/episode-2-your-first-hello-world">📘 Chapter 2 – Your First Hello World</a></strong>
-</div>
+  <strong><a href="https://javascriptseries.hashnode.dev/episode-1-what-is-javascript" target="_blank">📘 Chapter 1 – What is JavaScript?</a></strong>
+</td>
 
 <br />
 
-<div align="center">
-  <a href="https://javascriptseries.hashnode.dev/js-functions" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720000083011/2f789c4f-abc9-4b4e-812d-bc80d15d6077.png" width="400" alt="Chapter 2: JS Functions" />
+
+  <!-- Chapter 2 -->
+  <td align="center">
+  <a href="https://javascriptseries.hashnode.dev/episode-2-your-first-hello-world" target="_blank">
+    <img src="javascript.jpg" width="400" alt="Chapter 2: Your First Hello World" />
   </a>
   <br />
-  <strong><a href="https://javascriptseries.hashnode.dev/js-functions">📙 Chapter 2 – JavaScript Functions</a></strong>
-</div>
-
+  <strong><a href="https://javascriptseries.hashnode.dev/episode-2-your-first-hello-world" target="_blank">📙 Chapter 2 – Your First Hello World</a></strong>
+  </td>
+</tr>
+</table>
 <br />
 
 <p align="center">
-  👉 Read the full series on <a href="https://javascriptseries.hashnode.dev" target="_blank"><strong>javascriptseries.hashnode.dev</strong></a>
+  👉 Read the full series at <a href="https://javascriptseries.hashnode.dev" target="_blank"><strong>javascriptseries.hashnode.dev</strong></a>
 </p>
 
 ---
+
 
 ### 🤝 Open to Collaborate On:
 
