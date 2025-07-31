@@ -41,11 +41,11 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 > I'm documenting everything I'm learning in-depth as I revisit core JavaScript concepts — practical, modern, and beginner-friendly.
 
 <div align="center">
-  <a href="https://javascriptseries.hashnode.dev/js-variables" target="_blank">
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719928993065/3fcd94c2-41ff-46c5-b509-712f75e7f9d9.png" width="400" alt="Chapter 1: JS Variables" />
+  <a href="https://javascriptseries.hashnode.dev/episode-1-what-is-javascript" width="400" alt="Chapter 1: What is JavaScript" />
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720000083011/2f789c4f-abc9-4b4e-812d-bc80d15d6077.png" width="400" alt="Chapter 2: JS Functions" />
   </a>
   <br />
-  <strong><a href="https://javascriptseries.hashnode.dev/js-variables">📘 Chapter 1 – JavaScript Variables</a></strong>
+  <strong><a href="https://javascriptseries.hashnode.dev/episode-2-your-first-hello-world">📘 Chapter 2 – Your First Hello World</a></strong>
 </div>
 
 <br />
