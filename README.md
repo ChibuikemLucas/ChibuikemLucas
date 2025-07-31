@@ -36,6 +36,36 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 
 ---
 
+### 📚 JavaScript Series on Hashnode
+
+> I'm documenting everything I'm learning in-depth as I revisit core JavaScript concepts — practical, modern, and beginner-friendly.
+
+<div align="center">
+  <a href="https://javascriptseries.hashnode.dev/js-variables" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1719928993065/3fcd94c2-41ff-46c5-b509-712f75e7f9d9.png" width="400" alt="Chapter 1: JS Variables" />
+  </a>
+  <br />
+  <strong><a href="https://javascriptseries.hashnode.dev/js-variables">📘 Chapter 1 – JavaScript Variables</a></strong>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://javascriptseries.hashnode.dev/js-functions" target="_blank">
+    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1720000083011/2f789c4f-abc9-4b4e-812d-bc80d15d6077.png" width="400" alt="Chapter 2: JS Functions" />
+  </a>
+  <br />
+  <strong><a href="https://javascriptseries.hashnode.dev/js-functions">📙 Chapter 2 – JavaScript Functions</a></strong>
+</div>
+
+<br />
+
+<p align="center">
+  👉 Read the full series on <a href="https://javascriptseries.hashnode.dev" target="_blank"><strong>javascriptseries.hashnode.dev</strong></a>
+</p>
+
+---
+
 ### 🤝 Open to Collaborate On:
 
 - 🚀 Creative frontend UI/UX projects  
@@ -60,9 +90,6 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 
 <div align="center">
   <a href="mailto:chibuikemlucas@gmail.com"><img src="https://img.shields.io/badge/Gmail-chibuikemlucas%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <!-- Optional Links -->
-  <!-- <a href="https://linkedin.com/in/YOUR-LINK"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
-  <!-- <a href="https://twitter.com/YOUR-HANDLE"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> -->
 </div>
 
 ---
