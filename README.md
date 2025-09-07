@@ -18,12 +18,13 @@ I have 2 years of experience building full-stack applications,I'm currently on a
 
 <div align="center">
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-NextJS-000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NextJS-red?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-ThreeJS-000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/-React%20Native-purple?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-339933?style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-grey?style=for-the-badge&logo=express.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" />
 </div>
 
 ---
