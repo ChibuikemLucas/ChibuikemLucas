@@ -1,20 +1,20 @@
 <h1 align="center">👋🏾 Welcome to My World — I'm <span style="color:#915EFF;">Chibuikem Lucas</span></h1>
 
 <p align="center">
-  <em>Frontend Dev | React Specialist | Creative UI Animator | 3D Web Magician</em>
+  <em>Full-Stack Dev | React, Express & Node Specialist | Creative UI Animator with strong and secure Backend | 3D Web Magician</em>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Bringing+UIs+to+Life+with+Code+%F0%9F%AA%84;Crafting+3D+Experiences+%F0%9F%94%8A;React+%7C+Next+%7C+Three+%7C+TypeScript" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=440&height=45&lines=Bringing+UIs+to+Life+with+Code+%F0%9F%AA%84;Crafting+3D+Experiences++%F0%9F%94%8A;Well-Structured+Backend;React+%7C+Next+%7C+Three+%7C+TypeScript;Express+%7C+Node+%7C+DB+%7C+Auth" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm **Chibuikem Lucas**, a frontend developer from Nigeria who’s obsessed with crafting immersive and high-performance web and mobile experiences. My specialty? Making UIs that *move*, *react*, and *wow*.  
+I'm **Chibuikem Lucas**, a full-stack developer from Nigeria who’s obsessed with crafting immersive and high-performance web and mobile experiences. My specialty? Making UIs that *move*, *react*, and *wow*, still coming along with a well-structured and secure backend framework.  
 
-I'm currently on a journey to **master the frontend stack** and push creative boundaries using:
+I have 2 years of experience building full-stack applications,I'm currently on a journey to **apply my knowledge and learn more full-stack technologies** and push creative boundaries by **creating innovative 3D fullstack apps that solve key problems** using:
 
 <div align="center">
   <img src="https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
@@ -23,16 +23,16 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/-React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Express.js-339933?style=for-the-badge&logo=express.js&logoColor=white" />
 </div>
 
 ---
 
 ### 💼 What I'm Doing Now
 
-- 🛠️ Building **real-world frontend projects** with motion and 3D UI  
-- 🧠 Learning deeper **React Patterns**, **TypeScript mastery**, and **WebGL**  
+- 🛠️ Building **real-world full-stack projects** that solve real problems or make it easier to do certain mundane tasks.  
 - 🌍 Growing my network and looking for **collaborations and job offers**  
-- 🔥 Sharing my dev journey, insights, and UI tips online  
+- 🔥 Sharing my dev journey and insights online  
 
 ---
 
@@ -75,10 +75,10 @@ I'm currently on a journey to **master the frontend stack** and push creative bo
 
 ### 🤝 Open to Collaborate On:
 
-- 🚀 Creative frontend UI/UX projects  
+- 🚀 Creative frontend and backend projects of any kind.
 - 🧩 Open-source tools with interactive/visual components  
 - 📱 React Native mobile experiences  
-- 🎯 Startups or teams needing **visually stunning** interfaces  
+- 🎯 Startups or teams needing **visually stunning** interfaces and great backend features. 
 
 ---
 
